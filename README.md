@@ -29,25 +29,25 @@ players;
 wins” or “Draw”).
 
 The game is implemented to support the following modes:
-● Player 1 vs Player 2 (local multiplayer) - 2 players playing on the same
+* Player 1 vs Player 2 (local multiplayer) - 2 players playing on the same
 device;
-● Player vs Computer (Random move).
+* Player vs Computer (Random move).
 
 #### Unit Tests ####
 Unit tests that cover the following:
-● Hint
-● Undo
-● Win
-● Lose
-● Draw
+* Hint
+* Undo
+* Win
+* Lose
+* Draw
 
 #### Asset Bundles and Editor Tool ####
 EditorWindow in which we can define and assign the following:
-● X symbol (graphics)
-● O symbol (graphics)
-● Background (graphics)
-● Asset bundle name (text)
-● Build asset bundle (button)
+* X symbol (graphics)
+* O symbol (graphics)
+* Background (graphics)
+* Asset bundle name (text)
+* Build asset bundle (button)
 
 Pressing the “build” button will trigger the creation of an Asset Bundle with all of the
 content assigned above and will save the asset bundle to the Streaming Assets
